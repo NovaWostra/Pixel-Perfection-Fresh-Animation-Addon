@@ -1,0 +1,37 @@
+{
+	"texture": "quiver",
+	"textureSize": [14, 15],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "cube",
+			"rotate": [0, 0, 47.5],
+			"boxes": [
+				{
+					"coordinates": [2, 0, 3.1, 4, 8, 3],
+					"uvNorth": [3, 7, 7, 15],
+					"uvEast": [0, 7, 3, 15],
+					"uvSouth": [10, 7, 14, 15],
+					"uvWest": [7, 7, 10, 15],
+					"uvUp": [7, 7, 3, 4],
+					"uvDown": [11, 4, 7, 7]
+				}
+			]
+		},
+		{
+			"id": "cube",
+			"rotate": [0, 0, 47.5],
+			"boxes": [
+				{
+					"coordinates": [2.4, -4, 4.5, 3, 4, 0],
+					"uvNorth": [0, 0, 3, 4],
+					"uvEast": [0, 0, 0, 4],
+					"uvSouth": [3, 0, 6, 4],
+					"uvWest": [3, 0, 3, 4],
+					"uvUp": [3, 0, 0, 0],
+					"uvDown": [6, 0, 3, 0]
+				}
+			]
+		}
+	]
+}

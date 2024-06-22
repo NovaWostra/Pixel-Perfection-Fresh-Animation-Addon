@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 7,
-    "description": "An Addon For FreshXL's FreshAnimation v1.4"
+    "pack_format": 28,
+	"supported_formats": {
+            "min_inclusive": 28,
+            "max_inclusive": 32767
+        },
+    "description": "An Addon For FreshXL's FreshAnimation v1.9"
   }
 }
